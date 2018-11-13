@@ -7,7 +7,7 @@ The algorithm is based on  **Bayesian Collaborative Model** aimed to fix the pro
 
 $$Z$$ - Variable selection with 0 or 1 $Z_ij$ = 1 means $\mu_ij$ != 0 
 
-![](https://github.com/songge529/gibbs_program/raw/master/letter/beta.gif) - model parameter of each class which determinate beta 
+![](https://github.com/songge529/gibbs_program/raw/master/letter/mu.gif) - model parameter of each class which determinate beta 
 
 \beta - sampling from $\mu$ 
 
