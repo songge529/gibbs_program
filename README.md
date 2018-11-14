@@ -30,7 +30,7 @@ Initialize the generated simulation data
 
 ### step 3:
 
-Define a Gibbs update iterator function in the class  
+Define Gibbs update iterator functions in the class  
 
 
 ### step 4:
