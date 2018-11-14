@@ -24,6 +24,8 @@ Update iteration order: ![](https://github.com/songge529/gibbs_program/raw/maste
 ### step 1:
 Get the Bayesian posterior probability derivation-- the Algorithm basis 
 
+The folder **bayesian posterior probability derivation** include the entire derivation process
+
 ### step 2:
 
 Initialize the generated simulation data 
