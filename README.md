@@ -1,7 +1,7 @@
 # gibbs_program
-# Gibbs Sampling Program
-
-The algorithm is based on  **Bayesian Collaborative Model** aimed to fix the problem that the regression parameter is larger than the observation number and which could get the Estimation of parameters   ![](https://github.com/songge529/gibbs_program/raw/master/letter/Z.gif),    ![](https://github.com/songge529/gibbs_program/raw/master/letter/mu.gif),    ![](https://github.com/songge529/gibbs_program/raw/master/letter/beta.gif),    ![](https://github.com/songge529/gibbs_program/raw/master/letter/H.gif), Simultaneously.Because the data is real Pharmaceutical production data, different  medicines have different batches. Each batch is response variable, each batch has different production records. Therefore, we assumed that some different batch maybe belong to same class with some attributes.   
+## Project：Increasing Pharmaceutical Coating Rate
+## Description ：
+The project is based on pharmaceutical data aimed to fix the problem that the number of regression parameters is larger than the observation number. Because the data is real Pharmaceutical production data, different medicines have different batches. Each batch is response variable, each batch has different production records. Actually, we can assume that some of different batches maybe belong to same class with some same attributes. Therefore, we established **Bayesian Collaborative Model** based on **Gibbs sampling algorithm** which could get the Estimation of parameters ![](https://github.com/songge529/gibbs_program/raw/master/letter/Z.gif),    ![](https://github.com/songge529/gibbs_program/raw/master/letter/mu.gif),    ![](https://github.com/songge529/gibbs_program/raw/master/letter/beta.gif),    ![](https://github.com/songge529/gibbs_program/raw/master/letter/H.gif), Simultaneously.   
 
 ## Parameter Description: 
 
